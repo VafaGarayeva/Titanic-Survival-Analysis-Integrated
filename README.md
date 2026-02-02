@@ -1,9 +1,5 @@
 # Titanic-Survival-Analysis-Integrated
 A comprehensive analysis of Titanic survival factors using SQL, Tableau, and SPSS.
-Full analysis: SQL, SPSS & Tableau
-# Titanic Survival Analysis: An Integrated Approach
-
-This project explores the factors influencing survival on the Titanic by integrating three powerful data tools: **Oracle SQL, Tableau, and SPSS.**
 
 ## 1. Statistical Insights (SPSS)
 Using Logistic Regression, I identified the primary drivers of survival:
