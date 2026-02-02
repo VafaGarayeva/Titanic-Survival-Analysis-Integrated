@@ -11,7 +11,7 @@ Using Logistic Regression, I identified the primary drivers of survival:
 * **Class Advantage:** 1st Class passengers were **14.3x** more likely to survive than 3rd Class.
 * **Age Paradox:** Age was found to be statistically insignificant ($p = 0.997$) when controlled for gender and class.
 
-**[View Interactive Tableau Dashboard]** (https://public.tableau.com/views/Titanic_Survival_Integrated_Analysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+🔗 **[View Interactive Tableau Dashboard](https://public.tableau.com/views/Titanic_Survival_Integrated_Analysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 ## 2. Visual Discoveries (Tableau)
 * **Family Dynamics:** "Small Families" (2-4 people) reached a survival peak of **57.9%**.
 * **Elite Group:** Passengers with titles like Lady or Sir achieved **80-100%** survival rates.
